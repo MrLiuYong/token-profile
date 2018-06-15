@@ -1,0 +1,15 @@
+{
+    "website": "http://zbl666.com",
+    "published_on": "2018-5-21"，
+    "overview": {
+        "en": "ZBL is a high-throughput public blockchain platform - designed to a Payment tools in the Consumer ecosystem Circle ",
+        "zh": "ZBL 是其创建的消费生态系统圈支付工具。"
+    },
+    "symbol": "ZBL",
+    "initial_price": {
+        "USD": "200  USD"
+    },
+    "whitepaper": "http://www.zbl666.com/Uploads/PDF/zbl.pdf",
+    "address": "0x92a8e8022f6dfb3add68a2e3a5ea46db6dc4e3d9",
+    "email": "zbl@szydzh.sinanet.com"
+}
