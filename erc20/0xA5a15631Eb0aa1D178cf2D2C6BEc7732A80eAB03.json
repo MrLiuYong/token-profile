@@ -1,0 +1,21 @@
+{
+    "website": "ex.cash",
+    "published_on": "2018-6-04",
+    "links": {
+        "telegram": "https://t.me/excashofficial",
+        "github": "https://github.com/zebiex/ex",
+    },
+    "overview": {
+        "en": "Ex is the platform integral of ex.cash Exchange (token) ",
+        "zh": "EX 币为ex.cash交易所的平台积分(代币)。"
+    },
+    "symbol": "ex",
+    "initial_price": {
+        "ETH": "0.0005 ETH",
+        "USD":"0.3 USD",
+        "BTC":"0.00004 BTC"
+   
+    },
+    "address": "0xA5a15631Eb0aa1D178cf2D2C6BEc7732A80eAB03",
+    "email": "business@ex.cash"
+}
